@@ -28,4 +28,4 @@ I’ve also worked on a variety of projects using **8051**, **Arduino Nano**, an
 
 ## 📫 Find Me
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Other social link](YOUR_SOCIAL_URL)
+[LinkedIn](YOUR_LINKEDIN_URL) · [Other social link](YOUR_SOCIAL_URL) (tee-hee, these are just placeholders!)
